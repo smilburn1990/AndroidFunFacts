@@ -1,5 +1,5 @@
 
-#Flickr Gallery
+#Fun Facts App
 
 This a mobile fun facts app that I created whilst trying to learn Android on Tree house learning
 
